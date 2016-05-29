@@ -81,11 +81,11 @@ Corfu Tour Guide, Γιώργος Χαρμάνας, Πασχάλης Πασχάλ
 Εικόνες κατά την χρήση του κινητού τηλεφωνου  LG Optimus L7 (android 4.4.4).
 Διεπαφή με τον χρήστη:
 
-https://cloud.githubusercontent.com/assets/17316138/15635537/47458308-25e9-11e6-933c-09a8b3b5bf85.png
-https://cloud.githubusercontent.com/assets/17316138/15635563/40067146-25ea-11e6-958d-0f68794be01b.png
-https://cloud.githubusercontent.com/assets/17316138/15635566/4655715a-25ea-11e6-8392-5e2b099a2f87.png
 https://cloud.githubusercontent.com/assets/17316138/15635568/4b1800ae-25ea-11e6-8870-7cc2d0617f9f.png
+https://cloud.githubusercontent.com/assets/17316138/15635563/40067146-25ea-11e6-958d-0f68794be01b.png
+https://cloud.githubusercontent.com/assets/17316138/15635537/47458308-25e9-11e6-933c-09a8b3b5bf85.png
 https://cloud.githubusercontent.com/assets/17316138/15635570/4fb2b6fe-25ea-11e6-8b1b-41083a1d6a97.png
+https://cloud.githubusercontent.com/assets/17316138/15635566/4655715a-25ea-11e6-8392-5e2b099a2f87.png
 
 Συμπεράσματα:
 
