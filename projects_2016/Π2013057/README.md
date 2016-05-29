@@ -1,12 +1,21 @@
+![default](https://cloud.githubusercontent.com/assets/17722968/15633761/3f636afe-25be-11e6-83ed-8970924bf403.png)
+
+
+
+
+
+
+
 ![1](https://cloud.githubusercontent.com/assets/17722968/15633759/3f30397c-25be-11e6-900f-997f72e6875a.png)
+
+
+
+
 
 
 
 ![2](https://cloud.githubusercontent.com/assets/17722968/15633760/3f4f33a4-25be-11e6-9528-56fe100ac26f.png)
 
-
-
-![default](https://cloud.githubusercontent.com/assets/17722968/15633761/3f636afe-25be-11e6-83ed-8970924bf403.png)
 
 
 #Εκπαιδευτικό παιχνίδι με Scratch
