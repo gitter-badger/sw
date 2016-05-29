@@ -31,9 +31,10 @@ Link: https://scratch.mit.edu/projects/111720804/
 Παρουσίαση του παιχνιδιού: Το παιχνίδι ξεκινάει οταν ο χρήστης πατήσει την πράσινη σημαία.Μόλις πατηθεί η πράσινη σημαία ο γατούλης (κύριος χαρακτήρας του παιχνιδιού) σου ζητάει να τον βοηθήσεις με τις εργασίες των μαθηματικών του πηγαίνοντας προς το σχολείο.Αφού ο χρήστης καταφέρει  να περάσει με επιτυχία  το πρώτο επίπεδο και ο γατούλης συνεχίσει τον δρόμο του, συνεχίζει στο δεύτερο επίπεδο. Πρίν πάει στο δέυτερο επίπεδο μεσολαβεί ενα μίνιγκειμ με ερωτήσεις γεωγραφίας. Με αυτό το επιπλέον επίπεδο ο χρήστης μπορεί να ανεβάσει το σκόρ του παραπάνω προσθέτοντας το σκόρ που είχε στο μίνιγκειμ με το τελικό σκορ.Το μίνιγκειμ δεν επηρεάζει στην περάτωση του παιχνιδιού.Στο δεύτερο επίπεδο ισχύει οτι και με το προηγούμενο συνεχίζοντας ο γατούλης να πηγαίνει προς το σχολείο και συνεχιζοντας να παιρνει ποντους οταν απανταει σωστα ή να χάνει αντίθετα οταν κανει λάθος.Πάλι στο τέλος του δευτέρου επιπέδου μεσολαβεί ενα μινιγκέιμ με ερωτήσεις ιστορίας και στην συνέχεια φτάνει τελικά σον προορισμό του έχοντας πετύχει τον στόχο του.Γίνεται καταμέτρηση του συνολικού σκόρ και το εμφανίζει αριστερά πάνω στην οθόνη.
 
 
+![screenshot](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013021/paixnidi1.jpg)
 
 
-
+![screenshot](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013021/paixnidi2.jpg)
 
 
 
@@ -60,4 +61,17 @@ Link: https://scratch.mit.edu/projects/111720804/
 
 Τις πληροφορίες τις απόκτησα από τα βιβιλία των τελευτάιων τάξεων του δημοτικού.
 Σχετικό link http://ebooks.edu.gr/new/allcourses.php
+
+![screenshot](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013021/paixnidi3.jpg)
+
+![screenshot](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013021/paixnidi4.jpg)
+
+![screenshot](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013021/paixnidi7.jpg)
+
+
+![screenshot](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013021/paixnidi8.jpg)
+
+
+![screenshot](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013021/paixnidi9.jpg)
+
 
