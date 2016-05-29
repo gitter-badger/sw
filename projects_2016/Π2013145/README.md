@@ -77,5 +77,5 @@ https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A020
 γεωγραφία, καθώς επίσης και να διασκεδάσουν.
 
 Εικόνες: Παρακάτω τοποθετώ ορισμένες εικόνες απο το παιχνίδι.
-https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013145/eikona%202.jpg
+![screenshot](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013145/eikona%202.jpg)
 https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013145/eikona%203.jpg
