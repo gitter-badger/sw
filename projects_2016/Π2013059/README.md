@@ -1,1 +1,5 @@
-Teliko paradoteo edw :  https://github.com/LeisosVasilis/dropsofemotions
+Είχα πρόβλημα στο ανέβασμα καθώς τα αρχεία ήταν πάρα πολλά και δεν με άφηνε για κάποιο λόγο.Οπότε σας έκανα link το τελικό παραδοτέο σε δικό μου repo.
+Ελπίζω να μην υπάρχει πρόβλημα.
+
+
+Τελικό παραδοτέο με source code και τελική αναφορά εδώ:  https://github.com/LeisosVasilis/dropsofemotions
