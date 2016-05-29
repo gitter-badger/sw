@@ -51,6 +51,12 @@ https://scratch.mit.edu/projects/62954520/
 
 Ενδεικτικές εικόνες :
 
+![3](https://cloud.githubusercontent.com/assets/17414983/15635533/66f8e2c0-2595-11e6-8e5e-c3f34ce938d1.png)
+
+![4](https://cloud.githubusercontent.com/assets/17414983/15635535/6fc8633a-2595-11e6-985c-c35aa8a67487.png)
+
+![5](https://cloud.githubusercontent.com/assets/17414983/15635539/793c9d00-2595-11e6-9e12-e652c52e094d.png)
+
 
 
 
