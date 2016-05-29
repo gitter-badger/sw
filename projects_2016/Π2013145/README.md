@@ -40,7 +40,7 @@ Link: https://scratch.mit.edu/projects/111771191/
 Αν οι παίκτες απαντήσουν σωστά και στις ερωτήσεις του τρίτου επιπέδου τερματίζουν το παιχνίδι με 
 επιτυχία.Σε κάθε άλλη περίπτωση χάνουν και θα πρέπει να ξανα προσπαθήσουν.
 Παρακάτω παραθέτονται κάποιες εικόνες από το παιχνίδι.
-https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013145/eikona%201.jpg
+![screenshot](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013145/eikona%201.jpg)
 
 
 4ο Παραδοτέο: Τελική Αναφορά
@@ -78,4 +78,4 @@ https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A020
 
 Εικόνες: Παρακάτω τοποθετώ ορισμένες εικόνες απο το παιχνίδι.
 ![screenshot](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013145/eikona%202.jpg)
-https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013145/eikona%203.jpg
+![screenshot](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013145/eikona%203.jpg)
