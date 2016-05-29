@@ -65,4 +65,28 @@ https://scratch.mit.edu/projects/43745396/#player
 
 Το παιχνίδι βρίσκεται εδώ : https://scratch.mit.edu/projects/43745396/
 
+Εικόνες: 
+
+![screenshot 7](https://cloud.githubusercontent.com/assets/19407927/15633945/87efdb42-25c1-11e6-8ffb-291e08a03843.png)
+![screenshot 8](https://cloud.githubusercontent.com/assets/19407927/15633946/89f707bc-25c1-11e6-977c-53b8ec1512ad.png)
+![screenshot 9](https://cloud.githubusercontent.com/assets/19407927/15633947/8b06f3ce-25c1-11e6-93b8-fd1750d737eb.png)
+![screenshot 10](https://cloud.githubusercontent.com/assets/19407927/15633948/8c0ba97c-25c1-11e6-83ef-4d50be65ba22.png)
+![screenshot 11](https://cloud.githubusercontent.com/assets/19407927/15633949/9261b050-25c1-11e6-86ea-8187ee94daef.png)
+![screenshot 12](https://cloud.githubusercontent.com/assets/19407927/15633950/93d0f8e2-25c1-11e6-8eec-32e25cc2b620.png)
+![screenshot 13](https://cloud.githubusercontent.com/assets/19407927/15633951/94da6e80-25c1-11e6-8f8b-e33f88817d85.png)
+![screenshot 14](https://cloud.githubusercontent.com/assets/19407927/15633952/959aec14-25c1-11e6-88b0-80f0f6bab43b.png)
+![screenshot 15](https://cloud.githubusercontent.com/assets/19407927/15633953/966acd26-25c1-11e6-89be-c40f086598a1.png)
+![screenshot 16](https://cloud.githubusercontent.com/assets/19407927/15633955/97cf4692-25c1-11e6-94ef-f73d602b53b4.png)
+![screenshot 17](https://cloud.githubusercontent.com/assets/19407927/15633956/987dd96e-25c1-11e6-822a-a1ebb9707631.png)
+![screenshot 18](https://cloud.githubusercontent.com/assets/19407927/15633957/994cc4fe-25c1-11e6-87ad-0c0e23c5b944.png)
+![screenshot 19](https://cloud.githubusercontent.com/assets/19407927/15633958/9a1f03ec-25c1-11e6-9d2f-900e28211a43.png)
+![screenshot 20](https://cloud.githubusercontent.com/assets/19407927/15633959/9af4e034-25c1-11e6-9418-f4a2f82cb8e0.png)
+![screenshot 21](https://cloud.githubusercontent.com/assets/19407927/15633960/9bf9889a-25c1-11e6-9a1b-8d3eda973fc2.png)
+![Uploading Screenshot (22).png…]()
+![screenshot 23](https://cloud.githubusercontent.com/assets/19407927/15633962/9dd1f95e-25c1-11e6-8371-f01bf26cd2c2.png)
+![screenshot 24](https://cloud.githubusercontent.com/assets/19407927/15633963/9e37ec1e-25c1-11e6-8039-b3597c76a46d.png)
+![screenshot 25](https://cloud.githubusercontent.com/assets/19407927/15633964/9f4b532a-25c1-11e6-9bbb-64fb3428d1c8.png)
+
+
+
 Βιβλιογραφία : "Ο ΠΡΑΚΤΙΚΟΣ ΠΡΟΓΡΑΜΜΑΤΙΣΤΗΣ" Σύγγραμμα, ANDREW HUNT, DAVID THOMAS, 2008, ΕΚΔΟΣΕΙΣ ΚΛΕΙΔΑΡΙΘΜΟΣ ΕΠΕ.
