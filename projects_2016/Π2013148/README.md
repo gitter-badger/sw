@@ -18,8 +18,8 @@
 
 
 Εικόνες παιχνιδιού
-![ScreenShot]()
-![ScreenShot]()
+![ScreenShot](https://github.com/courses-ionio/sw/blob/master/projects_2016/%CE%A02013148/ss1.png)
+![ScreenShot](https://github.com/courses-ionio/sw/blob/master/projects_2016/%CE%A02013148/ss2.png)
 
 Συμπέρασμα
 
