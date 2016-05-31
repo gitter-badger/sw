@@ -89,9 +89,21 @@ Mod Loader: Minecraft Forge
 
 Τα διαγράμματα λειτουργίας είναι παρόμοια με του προηγούμενου εξαμήνου με μικρές διαφορές.
 
+![Alt text](Twitter_City_Mod.png)   
+
+![Alt text](Data_Mining_Diagram.png)
 
 ### Ενδεικτικές Οθόνες
 
+![Alt text](blue_GUI.png)
+
+![Alt text](yellow_GUI.png)
+
+![Alt text](green_GUI.png)
+
+![Alt text](tweets_table.png)
+
+![Alt text](twitter_city.png)
 
 ### Συμπεράσματα
 
@@ -108,5 +120,4 @@ Tweet Mining Script: https://github.com/vpant/dataminingscript
 Ένα builded jar αρχείο του mod μπορεί να κατέβει από το εξής λινκ: http://twittercitymod.tk/TwitterCity-1.7.10-1.0.jar
 
 Για την σύνδεση στον σερβερ στο multiplayer πατήστε Add Server και στο Server Address πληκτρολογήστε: play.twittercitymod.tk
-
 
