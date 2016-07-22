@@ -88,3 +88,5 @@
 [Code Academy](https://www.codecademy.com/)
 
 [Software Studies](http://lab.softwarestudies.com/)
+
+[Situated Software](http://www.shirky.com/writings/situated_software.html)
