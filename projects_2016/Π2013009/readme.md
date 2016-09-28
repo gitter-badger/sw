@@ -31,8 +31,21 @@
 
 ![Alt text](Screenshot (11).png)
 
-https://github.com/courses-ionio/sw/blob/master/projects_2016/%CE%A02013009/Screenshot%20(11).png
+Πατώντας το play, το παιχνίδι αρχίζει.
 
+Κάποια στιγμιότυπα του παιχνιδιού. Υπάρχει μια μικρή καθοδήγηση για τον χρήστη.
+
+![Alt text](Screenshot (12).png)
+
+![Alt text](Screenshot (14).png)
+
+![Alt text](Screenshot (15).png)
+
+![Alt text](Screenshot (16).png)
+
+![Alt text](Screenshot (17).png)
+
+![Alt text](Screenshot (18).png)
 
 Συμπέρασμα: το βιντεοπαιχνίδι που δημιουργήθηκε στα πλαίσια του μαθήματος, αποσκοπεί στο να βοηθήσει μαθητές δημοτικού με το μάθημα 
 των αγγλικών δίνοντάς τους την δυνατότητα να μελετήσουν με έναν διαφορετικό και πιο διασκεδαστικό τρόπο. Συνεπώς, ένα βιντεοπαιχνίδι 
