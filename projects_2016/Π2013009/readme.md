@@ -29,7 +29,7 @@
 
 Η αρχική σελίδα έχει ως εξης:
 
-![Alt text](Screenshot(11).png?raw=true "1")
+![Alt text](projects_2016/%CE%A02013009/Screenshot (11).png)
 
 
 
