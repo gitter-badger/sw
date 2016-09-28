@@ -29,7 +29,7 @@
 
 Η αρχική σελίδα έχει ως εξης:
 
-![Alt text](sw/projects_2016/%CE%A02013009/Screenshot (11).png)
+![Alt text](Screenshot (11).png)
 
 https://github.com/courses-ionio/sw/blob/master/projects_2016/%CE%A02013009/Screenshot%20(11).png
 
