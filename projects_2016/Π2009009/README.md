@@ -41,7 +41,6 @@ Quiz ЛА8ГЛАТИЙЧМ
 
 емдеийтийес еийомес
 [1](sw/projects_2016/п2009009/quiz)
-[2](sw/projects_2016/п2009009/quiz)
 [3](sw/projects_2016/п2009009/quiz)
 [4](sw/projects_2016/п2009009/quiz)
 [5](sw/projects_2016/п2009009/quiz)
