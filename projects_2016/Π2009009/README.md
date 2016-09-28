@@ -40,19 +40,19 @@ Quiz μα8ηματικών
 για τη συνολική απόδοσή του.
 
 ΕΝΔΕΙΚΤΙΚΕΣ ΕΙΚΟΝΕΣ
-[1.](sw/projects_2016/Π2009009/quiz)
-[2.](sw/projects_2016/Π2009009/quiz)
-[3.](sw/projects_2016/Π2009009/quiz)
-[4.](sw/projects_2016/Π2009009/quiz)
-[5.](sw/projects_2016/Π2009009/quiz)
-[6.](sw/projects_2016/Π2009009/quiz)
-[7.](sw/projects_2016/Π2009009/quiz)
-[8.](sw/projects_2016/Π2009009/quiz)
-[9.](sw/projects_2016/Π2009009/quiz)
-[10.](sw/projects_2016/Π2009009/quiz)
-[11.](sw/projects_2016/Π2009009/quiz)
-[12.](sw/projects_2016/Π2009009/quiz)
-[13.](sw/projects_2016/Π2009009/quiz)
+[1](sw/projects_2016/Π2009009/quiz)
+[2](sw/projects_2016/Π2009009/quiz)
+[3](sw/projects_2016/Π2009009/quiz)
+[4](sw/projects_2016/Π2009009/quiz)
+[5](sw/projects_2016/Π2009009/quiz)
+[6](sw/projects_2016/Π2009009/quiz)
+[7](sw/projects_2016/Π2009009/quiz)
+[8](sw/projects_2016/Π2009009/quiz)
+[9](sw/projects_2016/Π2009009/quiz)
+[10](sw/projects_2016/Π2009009/quiz)
+[11](sw/projects_2016/Π2009009/quiz)
+[12](sw/projects_2016/Π2009009/quiz)
+[13](sw/projects_2016/Π2009009/quiz)
 
 
 ΣΥΜΠΕΡΑΣΜΑΤΑ
