@@ -81,6 +81,8 @@
 
 [How to Use Git and GitHub](https://www.udacity.com/course/ud775)
 
+[Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
+
 [Teaching Real-World Programming](http://cacm.acm.org/magazines/2013/8/166303-teaching-programming-the-way-it-works-outside-the-classroom/abstract)
 
 [Teaching Programming To A Highly Motivated Beginner](http://cacm.acm.org/blogs/blog-cacm/156836-teaching-programming-to-a-highly-motivated-beginner/fulltext)
