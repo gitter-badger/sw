@@ -18,18 +18,13 @@
 
 Υπάρχουν οι παρακάτω διαθέσιμες εργασίες που βαθμολογούνται πάντα ανάλογα με τον βαθμό δυσκολίας όπως φαίνεται δίπλα στο είδος της εργασίας. Είναι συνετό να επιλέξετε είδος εργασίας με βάση τις προηγούμενες γνώσεις, και τον διαθέσιμο χρόνο που έχετε. Αν για παράδειγμα δεν έχετε πολύ χρόνο τότε το πιο λογικό είναι να επιλέξετε μια εργασία που έχει μικρό βαθμό δυσκολίας. Πέρα από τα παρακάτω ενδεικτικά θέματα μπορείτε να διαλέξετε άλλο θέμα με βάση τα ενδιαφέροντα σας και μόνο σε συμφωνία με τον διδάσκοντα. 
 
-* Σχεδιασμός: [Εκπαιδευτικό παιχνίδι με Scratch](https://docs.google.com/document/d/1wyW_wgkojPfs4p4JYba-BVe5Dzo0W7SJwmpRh4A1Oz4/edit?usp=sharing), [MIT App inventor quantified self] (https://www.dropbox.com/s/ayf3dmmwgqbydfs/App%20inventor.docx?dl=0), 6
+* Σχεδιασμός:
 * Εγκατάσταση: xMOOC (e.g., coursebuilder) ή cMOOC (e.g., big blue button) για SW, [Crowdsourcing](http://pybossa.com/), [Bloging](https://github.com/inukshuk/jekyll-scholar), 7
-* Επέκταση [VideoAnalytics](http://www.socialskip.org/home), [Android Sports App](https://github.com/andrid/Run2gether), [Twitter Visualisation](http://www.Flutrack.org), [Old city 3D cartography](http://buildinginspector.nypl.org/), [Interactive Mapmaking](https://github.com/map1t0) , visualization
+* Επέκταση [VideoAnalytics](http://github.com/vidoodlics), [Twitter Visualisation](http://www.github.com/flutrack), [Interactive Mapmaking](https://github.com/map1t0)
 * Δημιουργία εκπαιδευτικού παιχνιδιού για την [εξάσκηση στην αλγοριθμική σκέψη] (https://www.dropbox.com/s/37rn4em8xsqt849/%CE%91%CE%BB%CE%B3%CE%BF%CF%81%CE%B9%CE%B8%CE%BC%CE%B9%CE%BA%CE%AE%20%CF%83%CE%BA%CE%AD%CF%88%CE%B7.docx?dl=0) 
-* Δημιουργία εφαρμογής για κινητά τηλέφωνα χρησιμοποιώντας τον [App Inventor] (https://www.dropbox.com/s/iymof7sxp3ldj1k/App%20inventor2.docx?dl=0)
-* Δημιουργία κινητής εφαρμογής για αποκατάσταση νοητικών λειτουργιών.
-* [Δημιουργία Multi-touch εφαρμογών](https://www.dropbox.com/s/e3402d49h45f7jb/Software%20Technology_%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B5%CF%82.pdf?dl=0)
-* [Δημιουργία API σε node.js που επιστρέφει στοιχεία μιας βάσης SQL](https://www.dropbox.com/s/4x719mnvjwfd7jr/%CE%95%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%20%CE%B5%CE%BE%CE%B1%CE%BC%CE%AE%CE%BD%CE%BF%CF%85%20SW.pdf?dl=0)
 * [Ενα διαδραστικό κεφάλαιο σε Web ή Mobile App για το βιβλίο](http://www.pibook.gr) σύμφωνα με τις οδηγίες του [Explorable Explanations](http://worrydream.com/ExplorableExplanations/) ή [Editions at play](https://editionsatplay.withgoogle.com/#/) ή [booksecrets](https://booksecrets.com/)
 * [Ενα νέο κεφάλαιο για βιβλίο εργασιών προγραμματισμού για MIT App Inventor](http://www.mttcs.org/Projekte/Squeak/material/ideas_eng.pdf)
 * [Δημιουργικές αλλαγές σε κλασσικά βίντεο-παιχνίδια](http://stabyourself.net/)
-* [Ubicomp course projects](https://github.com/courses-ionio/ubiq)
 * [Social live TV](http://dev.twitch.tv): [Example Apps](http://www.overwolf.com/twitch-app-challenge/)
 
 Η επίβλεψη των εργασίων θα γίνει τόσο από τον διδάσκοντα όσο και από τους βοηθούς του μαθήματος. Τα σχόλια βελτίωσης για μια εργασία μπορούν να γίνουν με εμπιστοσύνη μόνο πάνω σε ένα ντέμο και όχι πάνω σε μια ιδέα. 
